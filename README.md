@@ -8,3 +8,6 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAI
 
 ZPL- Andale font print</br>
 https://github.com/shimauma-giken/Zebra-Printer_How-to-print-Japanese-with-Andale-J-font
+
+Visual Studio Code </br>
+https://visualstudio.microsoft.com/ja/downloads/
